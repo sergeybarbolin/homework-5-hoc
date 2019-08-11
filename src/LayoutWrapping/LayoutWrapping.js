@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 /*
   Напишите HOC, который обернёт компонент в `div`,
